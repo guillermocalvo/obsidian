@@ -3,7 +3,6 @@ height: is-medium
 items:
 
   - title: Fast
-    subtitle: Example subtitle 1
     icon: fa-tachometer-alt
     description: >
       The example description text goes here and can be multiple lines.
@@ -12,7 +11,6 @@ items:
     call_to_action_link: /page-1/
 
   - title: Lightweight
-    subtitle: Example subtitle 2
     icon: fa-feather-alt
     description: >
       The example description text goes here and can be multiple lines.
@@ -21,7 +19,6 @@ items:
     call_to_action_link: /page-2/
 
   - title: Simple
-    subtitle: Example subtitle 3
     icon: fa-tint
     description: >
       The example description text goes here and can be multiple lines.
@@ -30,9 +27,7 @@ items:
     call_to_action_link: /page-3/
 
   - title: Open Source
-    subtitle: Example subtitle 4
-    icon: fa-osi
-    icon_brand: true
+    icon: fa-code
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
@@ -40,7 +35,6 @@ items:
     call_to_action_link: /page-1/
 
   - title: Functional
-    subtitle: Example subtitle 5
     icon: fa-filter
     description: >
       The example description text goes here and can be multiple lines.
@@ -49,7 +43,6 @@ items:
     call_to_action_link: /page-2/
 
   - title: Documented
-    subtitle: Example subtitle 6
     icon: fa-book
     description: >
       The example description text goes here and can be multiple lines.
