@@ -5,35 +5,29 @@ items:
   - title: Fast
     icon: fa-tachometer-alt
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
-
-  - title: Lightweight
-    icon: fa-feather-alt
-    description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
+      Faster than throwing exceptions
 
   - title: Simple
     icon: fa-tint
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
+      No frills, easy to use
+
+  - title: Error Handling
+    icon: fa-bolt
+    description: >
+      Functional programming style
+
+  - title: Lightweight
+    icon: fa-feather-alt
+    description: >
+      No external dependencies
 
   - title: Open Source
-    icon: fa-code
+    icon: fa-balance-scale
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
+      Licensed under Apache 2
 
-  - title: Functional
-    icon: fa-filter
+  - title: Java Library
+    icon: fa-mug-hot
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
-
-  - title: Documented
-    icon: fa-book
-    description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
+      JDK 8 and up
