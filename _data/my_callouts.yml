@@ -7,45 +7,33 @@ items:
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
-    call_to_action_name: Benchmarks
-    call_to_action_link: /page-1/
 
   - title: Lightweight
     icon: fa-feather-alt
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
 
   - title: Simple
     icon: fa-tint
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: /page-3/
 
   - title: Open Source
     icon: fa-code
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
-    call_to_action_name: Benchmarks
-    call_to_action_link: /page-1/
 
   - title: Functional
     icon: fa-filter
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
 
   - title: Documented
     icon: fa-book
     description: >
       The example description text goes here and can be multiple lines.
       For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: /page-3/
